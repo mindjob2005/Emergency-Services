@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+  	<Item>
+      <modelName>polbison</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+		  0
+		  0
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+		  12
+		  12
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>201000_pdbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="778860" />
+	</Item>
+	<Item>
+      <modelName>polbison2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+		  0
+		  0
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+		  12
+		  12
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>201000_pdbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7251" />
+	</Item>
+	<Item>
+      <modelName>polumkbison</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+		  2
+		  0
+		  134
+		  156
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+		  4
+		  0
+		  111
+		  156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+		  0
+		  0
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>201000_pdbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7311" />
+    </Item>
+	<Item>
+      <modelName>polumkbison2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+		  2
+		  0
+		  134
+		  156
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+		  4
+		  0
+		  111
+		  156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+		  0
+		  0
+		  0
+		  0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>201000_pdbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7311" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
