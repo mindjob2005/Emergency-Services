@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
    <Item>
-      <modelName>polpatriot</modelName>
-      <txdName>polpatriot</txdName>
+      <modelName>pdpatriot</modelName>
+      <txdName>pdpatriot</txdName>
       <handlingId>POLPATRIOT</handlingId>
-      <gameName>POLPATRIOT</gameName>
+      <gameName>PDPATRIOT</gameName>
       <vehicleMakeName>MAMMOTH</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -132,7 +132,7 @@
    </Item>
    <Item>
       <parent>vehicles_cav_interior</parent>
-      <child>polpatriot</child>
+      <child>pdpatriot</child>
     </Item>
 </txdRelationships>
 </CVehicleModelInfo__InitDataList>
