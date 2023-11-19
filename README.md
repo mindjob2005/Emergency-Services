@@ -12,7 +12,7 @@ All you will need to do is download the yft's
 replace them in the stream folder.
 
 For liveries that are _livery4 or higher
-You will need to add it to the carcols.meta to be aboe to use them.
+You will need to add it to the carcols.meta to be able to use them.
 
 
 Police Livery Numbers
@@ -26,4 +26,4 @@ EMS Livery Numbers
 Livery1 = LSFD
 
 If you would like custom made liveries
-Please reach outto me on discord.
+Please reach out to me on discord.
